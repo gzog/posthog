@@ -32,7 +32,7 @@
     "kea-listeners": "^0.2.3",
     "kea-loaders": "^0.0.4",
     "kea-router": "^0.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "react": ">= 16.8",
     "react-beautiful-dnd": "^12.2.0",
